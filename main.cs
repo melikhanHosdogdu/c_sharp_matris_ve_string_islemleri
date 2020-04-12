@@ -1,16 +1,4 @@
-﻿/**********************************************************************************
-**                                        SAKARYA ÜNİVERSİTESİ
-**                                BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**                                    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**                                   NESNEYE DAYALI PROGRAMLAMA DERSİ
-**                                     2016-2017 BAHAR DÖNEMİ
-**
-**                          ÖDEV NUMARASI..........:1
-**                          ÖĞRENCİ ADI............: Melikhan Muhammed Hoşdoğdu 
-**                          ÖĞRENCİ NUMARASI.......: G 161210039
-**                          DERSİN ALINDIĞI GRUP...:2B
-************************************************************************************/
-
+//author Melikhan Muhammed Hoşdoğdu 
 using System;
 using System.Collections.Generic;
 using System.Linq;
